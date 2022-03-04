@@ -1,0 +1,2 @@
+# freecdn
+jsDelivr+Github
